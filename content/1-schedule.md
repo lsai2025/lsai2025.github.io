@@ -2,7 +2,7 @@
 title: Schedule
 nav: true
 ---
-The workshop will be held on **December 9-10th, 2025 (TBD)** in Pisa, Italy. More information on the location will be shared once it is available.
+The workshop will be held on **June 9-10th, 2025** in Pisa, Italy. More information on the location will be shared once it is available.
 
 
 ### Tentative Schedule
