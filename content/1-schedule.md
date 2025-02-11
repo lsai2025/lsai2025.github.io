@@ -6,6 +6,7 @@ The workshop will be held on **December 9-10th, 2025 (TBD)** in Pisa, Italy. Mor
 
 
 ### Tentative Schedule
+
 | Time          | Event                     |
 |---------------|---------------------------|
 | 09:00 - 09:30 | Welcome and Workshop Overview |

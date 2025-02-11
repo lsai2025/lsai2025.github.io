@@ -3,15 +3,15 @@ title: Submissions
 nav: true
 ---
 
-# What and How to Submit
+## What and How to Submit
 LSAI accepts several types of submissions for review, including:
 
 * Full papers (10-12 pages)
 * Short papers (max 8 pages)
-* Extended Abstract (max 1 page)
+* Extended Abstract (max 1 page)<br>
 References are excluded from page count.
 
-# Submission Guidelines
+## Submission Guidelines
 Authors are invited to submit original research papers which have not been published elsewhere and which are not currently under consideration for another journal, conference, or workshop. Extended abstracts may present work that can be already published, in preparation for publication elsewhere, or ongoing research.
 
 Submissions of papers must be in English, in PDF format, and formatted following the new CEUR-ART 1-column style ([Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)).
