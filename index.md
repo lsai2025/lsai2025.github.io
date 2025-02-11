@@ -4,13 +4,10 @@ layout: page
 ---
 
 # 2nd Workshop on Law, Society and Artificial Intelligence: Interdisciplinary perspectives on AI safety
-
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here"  width="75%" %}
-
-
 **June 9-10, 2025**<br>
 Co-located with HHAI: The 4th International Conference Series on Hybrid Human-Artificial Intelligence<br> 
 Pisa (PI), Italy
+<br>
 <br>
 The LSAI Workshop aims to explore the interdisciplinary nature of AI Safety as a holistic field, recognizing its socio-technical, ethical, and legal implications, bringing together researchers and practitioners from diverse domains. The workshop seeks to encourage multilayered and diverse approaches to AI Safety, encouraging interdisciplinary discussions to critically examine how AI systems can be designed, deployed, and regulated in ways that prioritize safety, while also addressing broader societal and regulatory concerns.
 This edition will focus on the multiple dimensions of AI Safety, including technical robustness, governance frameworks, ethical considerations, and socio-technical environments. Discussions will cover both theoretical and practical perspectives, exploring issues such as risk assessment, trust and acceptance of new technologies, accountability architectures, fairness, transparency, and the challenges of enforcing safety standards across jurisdictions. By addressing these themes, the workshop will highlight the necessity of a multidisciplinary approach to AI Safety, ensuring that technical solutions are aligned with societal values and regulatory requirements.
@@ -33,7 +30,7 @@ Relevant abstracts cover one or more of the following topics:
 - AI, User Experience (UX) and User Interface (UI) design.
 
 ## Important Dates
-{% include alert.html text="**Submission Deadline**: March 31st, 2025 (23:59 AoE)<br>
+{% include alert.html text="**Submission Deadline**: April 11th, 2025 (23:59 AoE)<br>
 **Acceptance Notification**: May 2nd, 2025 (23:59 AoE)<br>
 **Workshop day**: June 9-10, 2025" align="left" color="warning" %}
 
