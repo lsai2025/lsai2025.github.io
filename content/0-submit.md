@@ -18,7 +18,7 @@ Submissions of papers must be in English, in PDF format, and formatted following
 
 The review process follows the guidelines of [the main conference](https://hhai-conference.org/2025/). At least two reviewers will evaluate submissions on the basis of originality, clarity, and technical quality. To submit a paper, please use the following web portal.
 
-{% include button.html text="Submit via Microsoft CMT (link not available yet)" link="" color="danger" %}
+{% include button.html text="Submit via Microsoft CMT" link="https://cmt3.research.microsoft.com/LSAI2025/Submission/Index" color="danger" %}
 
 ### Publication
 
