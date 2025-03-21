@@ -17,7 +17,8 @@ Sant’Anna School of Advanced Studies, LIDER-Lab, DIRPOLIS, Pisa, Italy<br>
 <a href="mailto:vittoria.caponecchia@santannapisa.it">vittoria.caponecchia@santannapisa.it<a>
 
 **Giuseppe Colavito**<br>
-University of Pisa, Department of Computer Science, Pisa, Italy;<br>
+University of Pisa, Department of Computer Science, Pisa, Italy; <br>
+University of Bari, Department of Computer Science, Bari, Italy; <br>
 <a href="mailto:giuseppe.colavito@phd.unipi.it ">giuseppe.colavito@phd.unipi.it <a>
 
 **Andrea Failla**<br>

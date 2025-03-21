@@ -2,7 +2,7 @@
 title: Schedule
 nav: true
 ---
-The workshop will be held on **June 9-10th, 2025** in Pisa, Italy. More information on the location will be shared once it is available.
+The workshop will be held on **June 10th, 2025** in Pisa, Italy. More information on the location will be shared once it is available.
 
 
 ### Tentative Schedule
@@ -12,6 +12,7 @@ The workshop will be held on **June 9-10th, 2025** in Pisa, Italy. More informat
 | 09:00 - 09:30 | Welcome and Workshop Overview |
 | 09:30 - 11:00 | Paper Presentations       |
 | 11:00 - 12:00 | Round table               |
+| 12:00 - 13:00 | Lunch Break               |
 | 13:00 - 15:00 | Paper Presentations       |
 | 15:00 - 16:00 | Round table               |
 | 16:00 - 16:30 | Closing Remarks           |

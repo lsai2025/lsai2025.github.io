@@ -4,7 +4,7 @@ layout: page
 ---
 
 # 2nd Workshop on Law, Society and Artificial Intelligence: Interdisciplinary perspectives on AI safety
-**June 9-10, 2025**<br>
+**June 10, 2025**<br>
 Co-located with HHAI: The 4th International Conference Series on Hybrid Human-Artificial Intelligence<br> 
 Pisa (PI), Italy
 <br>
@@ -27,5 +27,5 @@ Relevant abstracts cover one or more of the following topics:
 ## Important Dates
 {% include alert.html text="**Submission Deadline**: April 11th, 2025 (23:59 AoE)<br>
 **Acceptance Notification**: May 2nd, 2025 (23:59 AoE)<br>
-**Workshop day**: June 9-10, 2025" align="left" color="warning" %}
+**Workshop day**: June 10, 2025" align="left" color="warning" %}
 
