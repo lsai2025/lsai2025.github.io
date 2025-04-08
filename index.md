@@ -25,7 +25,7 @@ Relevant abstracts cover one or more of the following topics:
 - Challenges in enforcing safety standards across jurisdictions and technologies
 
 ## Important Dates
-{% include alert.html text="**Submission Deadline**: April 11th, 2025 (23:59 AoE)<br>
-**Acceptance Notification**: May 2nd, 2025 (23:59 AoE)<br>
+{% include alert.html text="**Submission Deadline**: April 18th, 2025 (23:59 AoE)<br>
+**Acceptance Notification**: May 9nd, 2025 (23:59 AoE)<br>
 **Workshop day**: June 10, 2025" align="left" color="warning" %}
 
