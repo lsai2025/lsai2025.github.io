@@ -43,4 +43,11 @@ University of Bologna, CIRSFID - Alma AI Research Center, Bologna, Italy.<br>
 <a href="mailto:giuseppe.pisano@unibo.it">giuseppe.pisano@unibo.it<a>
 
 ### Technical Program Committee
-TBD
+**Marco Billi**<br>
+University of Bologna, Bologna, Italy.<br>
+
+**Marianna Molinari**<br>
+University of Bologna, Bologna, Italy.<br>
+
+**Sara Tibidò**<br>
+IMT Scuola Alti Studi Lucca, Lucca, Italy<br>
