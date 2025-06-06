@@ -5,11 +5,12 @@ layout: page
 
 # 2nd Workshop on Law, Society and Artificial Intelligence: Interdisciplinary perspectives on AI safety
 **June 10, 2025**<br>
-Co-located with HHAI: The 4th International Conference Series on Hybrid Human-Artificial Intelligence<br> 
+Co-located with HHAI: The 4th International Conference Series on Hybrid Human-Artificial Intelligence<br>
+Palazzo della Sapienza, Room 5 ([Google Maps](https://maps.app.goo.gl/ZxTtiTgkjdxShHoZA)) 
 Pisa (PI), Italy
 <br>
 <br>
-{% include alert.html text="** Submission Deadline Extended**: April 18th, 2025 (23:59 AoE)" align="left" color="warning" %}
+{% include alert.html text="[The final program is out!](locandina.pdf)" align="left" color="warning" %}
 
 The LSAI Workshop aims to explore the interdisciplinary nature of AI Safety, focusing on its socio-technical, ethical, and legal implications.
 It will bring together researchers and practitioners from various fields to encourage diverse approaches to designing, deploying, and regulating AI systems that prioritize safety and align with societal values.
